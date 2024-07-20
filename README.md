@@ -1,5 +1,5 @@
 <head>
-<title>NEAR Wallet</title>
+<title>Metamask Wallet</title>
 <meta name="description" content="NEAR wallet is the chain abstraction stack, empowering builders to create apps that scale to billions of users and across all blockchains">
 </head>
 <body>
